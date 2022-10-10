@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naeimeh77
+- 👋 Hi, I’m @naeimehnajafi
 - 👀 I’m interested in Robotics and Aerospace Systems.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Control systems.
